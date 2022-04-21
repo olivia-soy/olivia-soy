@@ -1,6 +1,12 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&text=Lee%20Soyoung&fontSize=50&rotate=8&color=0:fffaf0,100:f4c2c2&fontAlign=80&fontAlignY=20)-->
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=100&color=0:B4FF9F,100:F9FFA4)
 <div align="center">
+  
+### 💖 Hi there
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folivia-soy%2Fhit-counter&count_bg=%23FFA1A1&title_bg=%23BBBBBB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+﹏﹏﹏﹏﹏﹏﹏
 
 ### 🛠 Skills
 
@@ -21,6 +27,8 @@ Language, Communication, Version Control
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
 <br>
 </p>
+
+﹏﹏﹏﹏﹏﹏﹏
 
 ### 📝 Top Languages card
 
