@@ -21,10 +21,11 @@ Language, Communication, Version Control
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
+<br>
 </p>
 
 
-### 🥇 Top Languages card
+### 📝 Top Languages card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivia-soy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
