@@ -2,11 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=100&color=0:B4FF9F,100:F9FFA4)
 <div align="center">
   
-### 💖 Hi there
+<!-- ### 💖 Hi there
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folivia-soy%2Fhit-counter&count_bg=%23FFA1A1&title_bg=%23BBBBBB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-﹏﹏﹏﹏﹏﹏﹏
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Folivia-soy%2Fhit-counter&count_bg=%23FFA1A1&title_bg=%23BBBBBB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 ### 🛠 Skills
 
@@ -28,7 +26,6 @@ Language, Communication, Version Control
 <br>
 </p>
 
-﹏﹏﹏﹏﹏﹏﹏
 
 ### 📝 Top Languages card
 
