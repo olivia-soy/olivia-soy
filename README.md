@@ -1,6 +1,4 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&text=Lee%20Soyoung&fontSize=50&rotate=8&color=0:fffaf0,100:f4c2c2&fontAlign=80&fontAlignY=20)-->
-
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=100&color=0:B4FF9F,100:F9FFA4)
 <div align="center">
 
@@ -24,9 +22,10 @@ Language, Communication, Version Control
 <br>
 </p>
 
-
 ### 📝 Top Languages card
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivia-soy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&height=100&section=footer&color=0:FFD59E,100:FFA1A1)
