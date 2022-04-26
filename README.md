@@ -24,13 +24,21 @@ Language, Communication, Version Control
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
 <br>
+<br>
 </p>
 
 
-### 📝 Top Languages card
+### 📮 About
+
+<p align="center">
+<a href="https://soy0314.tistory.com"><img src="https://img.shields.io/badge/Blog-f4c2c2?style=flat-square&logo=Blog&logoColor=white&link=https://soy0314.tistory.com&target=_blank"/></a>
+<a href="https://soy0314.tistory.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leesoyoung9962@gmail.com"/></a>
+<a href="https://olivia-soy.notion.site/06c4aac25811404681ac26772d900a13"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://olivia-soy.notion.site/06c4aac25811404681ac26772d900a13&target=_blank"/></a>
+
+<!--### 📝 Top Languages card
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivia-soy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-</div>
+</div>-->
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&height=100&section=footer&color=0:FFD59E,100:FFA1A1)
