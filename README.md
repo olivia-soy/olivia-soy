@@ -28,14 +28,15 @@ Language, Communication, Version Control
 </p>
 
 
-### 📮 About
-
-<p align="center">
+#### 🔗 Link
 <a href="https://olivia-soy.notion.site/06c4aac25811404681ac26772d900a13"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://olivia-soy.notion.site/06c4aac25811404681ac26772d900a13&target=_blank"/></a>
 <a href="https://soy0314.tistory.com"><img src="https://img.shields.io/badge/Blog-f4c2c2?style=flat-square&logo=Blog&logoColor=white&link=https://soy0314.tistory.com&target=_blank"/></a>
+<br>
+
+#### 📮 Contact
+
 <a href="mailto:leesoyoung9962@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leesoyoung9962@gmail.com"/></a>
 <br>
-</p>
 
 <!--### 📝 Top Languages card
 
